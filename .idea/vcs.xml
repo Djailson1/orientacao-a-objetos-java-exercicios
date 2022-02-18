@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/controleDeFluxo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicioCasting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicioQuadrilatero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio_variaveis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exerciciosMetodos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operadoradoresRelacionais" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operadoresAritmeticos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/primeiro-programa-intellij" vcs="Git" />
+  </component>
+</project>
